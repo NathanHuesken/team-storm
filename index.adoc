@@ -1,1 +1,8 @@
 = Tapferre Schneiderleing
+
+== Charaketere
+Schneiderlein
+Bauersfrau
+Riese
+
+include::characters/riese.adoc[leveloffest=2]
