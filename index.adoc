@@ -1,5 +1,10 @@
-= Das_tapfere_Schneiderlein
+= Das tapfere Schneiderlein
 
 ==Charaktere
+Schneiderlein
+Bauersfrau
+Riese
 
 include::characters/Schneider.adoc[leveloffset=2]
+
+include::characters/riese.adoc[leveloffest=2]
