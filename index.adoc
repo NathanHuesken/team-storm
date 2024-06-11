@@ -1,9 +1,9 @@
 = Das tapfere Schneiderlein
 
-==Charaktere
-Schneiderlein
-Bauersfrau
-Riese
+== Charaktere
+- Schneiderlein
+- Bauersfrau
+- Riese
 
 include::characters/Schneider.adoc[leveloffset=2]
 
